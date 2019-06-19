@@ -31,6 +31,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/core": "^7.4.5",
     "@storybook/addon-a11y": "^5.1.8",
     "@storybook/addon-actions": "^5.1.8",
     "@storybook/addon-knobs": "^5.1.8",
@@ -41,6 +42,7 @@
     "@storybook/addons": "^5.1.8",
     "@storybook/react": "^5.1.8",
     "@yankovsky/whitepaper-bem": "^2.1.0",
+    "babel-loader": "8.0.5",
     "bem-cn": "^3.0.1",
     "classnames": "^2.2.6",
     "eslint-config-prettier": "^5.0.0",

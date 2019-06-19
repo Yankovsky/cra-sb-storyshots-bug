@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { addParameters, configure, addDecorator } from '@storybook/react'
 
 import { withThemes } from 'storybook-addon-themes';
