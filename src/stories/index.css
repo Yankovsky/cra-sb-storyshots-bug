@@ -1,0 +1,15 @@
+.theme-twt {
+    border: 5px solid #00aced;
+}
+
+.theme-fb {
+    border: 5px solid #3b5998;
+}
+
+.light-mode {
+    background: gray;
+}
+
+.dark-mode {
+    background: black;
+}
